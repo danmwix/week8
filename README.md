@@ -1,6 +1,6 @@
-# flutter_final_week
+# Flutter Week 8 Assignment - flutter_final_week
 
-A new Flutter project.
+This is the final project for Week 8 Dart/Flutter assignment.
 
 ## Getting Started
 
